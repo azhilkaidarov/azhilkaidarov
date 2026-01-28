@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Asyl Zhilkaydarov
 - 👀 I’m from Kyrgyzstan 
 - 📍 But now i'm living in USA
-- 🐥 I’m currently learning algorithms!
 - 📫 How to reach me asylzhilkaidarov@icloud.com
 
 <!---
